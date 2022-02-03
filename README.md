@@ -5,3 +5,15 @@ Soy Jose Maria Marino Pereyra, Full Stack Web Developer, estudie en Henry, fue u
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xJomaMPx)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+* Git
+* HTML
+* CSS
+* JavaScript
+* React
+* Redux
+* Node
+* Express
+* SQL
+* Sequelize
