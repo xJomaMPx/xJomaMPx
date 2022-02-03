@@ -17,7 +17,7 @@ Soy Jose Maria Marino Pereyra, Full Stack Web Developer, estudie en Henry, fue u
 * Redux
 * Node
 * Express
-* SQL
+* PosgreSQL
 * Sequelize
 
 
